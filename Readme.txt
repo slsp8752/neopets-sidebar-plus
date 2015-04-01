@@ -1,5 +1,6 @@
+Migrated from old github account: https://github.com/neocrunched/neopets-sidebar-plus
 -----------------------------------
-Neopets Sidebar Plus by neocrunched
+Neopets Sidebar Plus by neocrunched/slsp8752
 -----------------------------------
 
 ------------
